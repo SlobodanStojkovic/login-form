@@ -1,3 +1,9 @@
+WORK IN PROGRESS!!!
+
+The login form is an example of how a login should function and be created using React. Its a simple form that can be used for logging in to your web site or application.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

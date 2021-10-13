@@ -1,0 +1,10 @@
+.loginBody {
+    background-color: skyblue;
+    min-height: 100vh;
+}
+
+.loginWindow {
+    background-color: white;
+    width: 20%;
+    min-height: 20%;
+}
