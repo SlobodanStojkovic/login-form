@@ -1,10 +1,37 @@
 .loginBody {
-    background-color: skyblue;
+    background-color: rgb(40, 182, 238);
     min-height: 100vh;
 }
 
 .loginWindow {
+    margin: auto;
     background-color: white;
     width: 20%;
-    min-height: 20%;
+    min-height: 30%;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 2% 0;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+#loginButton {
+    width: 86.5%;
+    background-color: rgb(40, 182, 238);
+    padding: 10px;
+    border-radius: 3px;
+}
+
+#resetType {
+    border: none;
+    background-color: white;
+    text-decoration: underline;
 }

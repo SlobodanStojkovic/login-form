@@ -1,6 +1,11 @@
 import "./Login.css";
 
 export const Login = () => {
+
+    const resetAll = () => {
+        
+    }
+
     return (
         <div className="loginBody">
             <div className="loginWindow">
@@ -15,7 +20,7 @@ export const Login = () => {
                     <button id="loginButton">login</button>
                 </p>
                 <p>
-                    <button id="resetButton">reset</button>
+                    <input id="resetType" type="reset" onClick={resetAll} />
                 </p>
             </div>
         </div>
