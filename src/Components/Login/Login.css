@@ -35,3 +35,8 @@ input {
     background-color: white;
     text-decoration: underline;
 }
+
+.warning {
+    color: red;
+    font-weight: bold;
+}

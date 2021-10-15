@@ -1,6 +1,11 @@
-WORK IN PROGRESS!!!
-
 The login form is an example of how a login should function and be created using React. Its a simple form that can be used for logging in to your web site or application.
+
+WARNING: To test this app, do not type any password that you use for your accounts. After you click login the username and password will be displayed in an alert box just as an example that the data is collected from input fields.
+
+To check how login works please CLICK HERE >>> [login-form](https://slobodanstojkovic.github.io/login-form/)
+
+This login is created using React.JS, JavaScript, HTML5 and CSS3.
+
 
 
 
